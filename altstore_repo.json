@@ -1,9 +1,9 @@
 {
-  "name": "azu0609's alt repo",
+  "name": "Modded alt repo",
   "identifier": "com.azu0609.altrepo",
   "apps": [
     {
-      "name": "Enmity",
+      "name": "Moddedcord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Enmity Team",
       "subtitle": "The power of addons, all in your hand.",
